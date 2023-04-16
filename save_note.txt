@@ -1,0 +1,8 @@
+title = first note
+notes = im trying to fix this problem
+
+title = second note
+notes = got it
+
+title = third note
+notes = try better next time
